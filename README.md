@@ -1,7 +1,7 @@
 <div align="center">
 
 # Marcelo de Ramos
-### Software Development · AI Engineering · Creative Tools
+### Software Development · Creative Tools
 
 Building practical software that makes learning, creating and everyday work easier.
 
@@ -10,56 +10,54 @@ Building practical software that makes learning, creating and everyday work easi
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square)
 
-[Selected work](#-selected-work) · [In development](#-in-development) · [Technologies](#️-technologies)
+[Selected work](#selected-work) · [In development](#in-development) · [Technologies](#technologies)
 
 </div>
 
 ---
 
-## 👋 About me
+## About me
 
-I'm Marcelo, a software developer focused on practical applications, interactive learning and AI-powered workflows. I build tools around real problems: understanding SQL through experimentation, practising programming skills, organising learning materials and supporting creative work.
+I'm Marcelo, a software developer focused on practical applications and interactive learning. I build tools around real problems: understanding SQL through experimentation, practising programming skills, organising learning materials and supporting creative work.
 
-My projects span Python desktop applications, Flask web apps and JavaScript automation. My AI work explores how language models can support content workflows, with a clear distinction between implemented features, prototypes and future plans.
+My projects span Python desktop applications, Flask web apps and JavaScript automation.
 
-## ✨ Selected work
+## Selected work
 
-### 🧩 ModuleForge
+### ModuleForge
 **Modular application tooling · In development**
 
 A project for building reusable, modular applications, with a working foundation and application-generation tooling planned.
 
-### 🗃️ SQL Quest
+### SQL Quest
 **Interactive SQL learning · Desktop application**
 
 A visual learning application combining explanations, hands-on SQLite experiments, debugging exercises and saved progress. Includes a workspace for writing SQL and inspecting query results and database structure.
 
-### ⌨️ Typing Tutor for Programmers
+### Typing Tutor for Programmers
 **Programming practice · Desktop application**
 
 A typing tutor with everyday and programmer practice modes, US/UK keyboard layouts, finger guidance, custom lessons and progress tracking.
 
-### 🔤 NameForge
+### NameForge
 **Word exploration · Local application**
 
 A word-list and name-creation tool for collecting vocabulary, transforming and combining words, saving reusable lists and exporting results to CSV.
 
-### 🎓 Marcelo's Learning Studio
+### Marcelo's Learning Studio
 **Learning tools · In development**
 
 A Windows learning environment for organising video lessons, notes, playlists and progress, with specialised learning studios and coding-workspace development.
 
-## 🚧 In development
+## In development
 
 | Project | Purpose | Current stage |
 | :--- | :--- | :--- |
-| **YouTube AI Factory** | Explore AI-assisted content creation and video-production workflows. | Prototype combining implemented metadata features with mock and simulated production stages. Full video generation and publishing remain in development. |
 | **Gymnastics Network** | Develop a web project centred on gymnastics. | Initial Flask foundation and account authentication implemented. |
 | **Marcelo Teleprompter** | Create an Android script reader for narration and livestream rehearsals. | Planning and documentation. Manual scrolling is planned first, with voice-guided tracking a later goal. |
 
-## 💡 More projects
+## More projects
 
 | Project | Focus |
 | :--- | :--- |
@@ -67,7 +65,7 @@ A Windows learning environment for organising video lessons, notes, playlists an
 | **Bsugar** | A Flask application for recording blood glucose readings alongside food, exercise, weight and notes. |
 | **Ritmo de Fé** | A Portuguese-language Christian music platform project. |
 
-## 🛠️ Technologies
+## Technologies
 
 Technologies documented across my repositories:
 
@@ -77,9 +75,8 @@ Technologies documented across my repositories:
 | **Applications** | Flask, Node.js, pywebview |
 | **Data** | SQLite |
 | **Interfaces** | Jinja, Bootstrap |
-| **AI integration** | OpenAI API |
 
-## 🔒 About this portfolio
+## About this portfolio
 
 This profile presents selected project names, purposes and development stages. Project repositories and implementation details remain private.
 
