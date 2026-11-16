@@ -12,7 +12,7 @@ Building practical software that makes learning, creating and everyday work easi
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square)
 
-[Selected work](#-selected-work) · [In development](#-in-development) · [Technologies](#-technologies)
+[Selected work](#-selected-work) · [In development](#-in-development) · [Technologies](#️-technologies)
 
 </div>
 
